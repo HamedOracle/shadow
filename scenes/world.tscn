@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=4 uid="uid://dd0wv8jdk6u6o"]
+[gd_scene load_steps=15 format=4 uid="uid://dd0wv8jdk6u6o"]
 
 [ext_resource type="PackedScene" uid="uid://7d0j6istk2jh" path="res://scenes/player.tscn" id="1_o34ak"]
 [ext_resource type="Texture2D" uid="uid://j1fwb21h730s" path="res://assets/Foreground/Dungeon Tile Set.png" id="2_71j4m"]
@@ -9,7 +9,6 @@
 [ext_resource type="FontFile" uid="uid://bsmeaf3vlhsnv" path="res://Pixel Game.otf" id="7_4mrxx"]
 [ext_resource type="Texture2D" uid="uid://dagl2acxc14es" path="res://assets/Foreground/Keyboard Extras.png" id="8_4mrxx"]
 [ext_resource type="Texture2D" uid="uid://blabwhrknrfcf" path="res://assets/ui/1.png" id="9_7r4gi"]
-[ext_resource type="PackedScene" uid="uid://coejratil0f7t" path="res://scenes/success_area.tscn" id="10_w7kh3"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_7r4gi"]
 texture = ExtResource("2_71j4m")
@@ -1216,8 +1215,6 @@ sources/3 = SubResource("TileSetAtlasSource_w7kh3")
 sources/4 = SubResource("TileSetAtlasSource_e3hyu")
 sources/5 = SubResource("TileSetAtlasSource_q5onr")
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_e3hyu"]
-
 [node name="lvl-0" type="Node2D"]
 
 [node name="player" parent="." instance=ExtResource("1_o34ak")]
@@ -1437,11 +1434,3 @@ scale = Vector2(0.0606658, 0.0606092)
 texture = ExtResource("9_7r4gi")
 region_enabled = true
 region_rect = Rect2(146, 89, 334, 476)
-
-[node name="success_area" parent="." instance=ExtResource("10_w7kh3")]
-position = Vector2(-11, -43)
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="success_area"]
-z_index = 4
-position = Vector2(-48, -26)
-shape = SubResource("RectangleShape2D_e3hyu")

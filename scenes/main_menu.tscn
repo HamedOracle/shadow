@@ -67,18 +67,6 @@ theme_override_fonts/font = ExtResource("4_rtw2f")
 theme_override_font_sizes/font_size = 910
 text = "tutorial"
 
-[node name="lvl1 btn" type="Button" parent="."]
-modulate = Color(0, 0.831373, 0, 1)
-z_index = 1
-offset_left = 498.0
-offset_top = 306.0
-offset_right = 3293.0
-offset_bottom = 1225.0
-scale = Vector2(0.05, 0.05)
-theme_override_fonts/font = ExtResource("4_rtw2f")
-theme_override_font_sizes/font_size = 910
-text = "level 1"
-
 [node name="lvl2 btn" type="Button" parent="."]
 modulate = Color(0, 0.831373, 0, 1)
 z_index = 1
@@ -92,4 +80,4 @@ theme_override_font_sizes/font_size = 910
 text = "Tower"
 
 [connection signal="pressed" from="tut btn" to="." method="_on_tut_btn_pressed"]
-[connection signal="pressed" from="lvl1 btn" to="." method="_on_lvl_1_btn_pressed"]
+[connection signal="pressed" from="lvl2 btn" to="." method="_on_lvl_2_btn_pressed"]
