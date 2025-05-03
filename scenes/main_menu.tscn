@@ -89,7 +89,7 @@ offset_bottom = 1227.0
 scale = Vector2(0.05, 0.05)
 theme_override_fonts/font = ExtResource("4_rtw2f")
 theme_override_font_sizes/font_size = 910
-text = "level 2"
+text = "Tower"
 
 [connection signal="pressed" from="tut btn" to="." method="_on_tut_btn_pressed"]
 [connection signal="pressed" from="lvl1 btn" to="." method="_on_lvl_1_btn_pressed"]

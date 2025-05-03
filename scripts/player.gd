@@ -2,7 +2,8 @@ extends CharacterBody2D
 
 # Player variables
 var can_move := true
-var is_dead := false
+
+@onready var you_win: CanvasLayer = $"you win"
 
 # Movement variables
 var SPEED = 150.0
@@ -30,9 +31,9 @@ var secondAttack = false  # Tracks if the second attack is active
 @onready var animated_sprite = $AnimatedSprite2D
 var last_direction: int = 1  # 1 for right, -1 for left
 
+
 # Gravity
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
-
 
 
 func _physics_process(delta):
