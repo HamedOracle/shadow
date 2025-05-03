@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://1ytsyf1an5n2"]
+
+[ext_resource type="Script" uid="uid://0bs6linl8kgu" path="res://scripts/death_box.gd" id="1_1372o"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_1372o"]
+radius = 43.0116
+
+[node name="death_box" type="Node2D"]
+z_index = 1
+
+[node name="Area2D" type="Area2D" parent="."]
+z_index = 1
+collision_layer = 3
+collision_mask = 3
+script = ExtResource("1_1372o")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+z_index = 1
+position = Vector2(0, -2)
+shape = SubResource("CircleShape2D_1372o")
+
+[node name="Timer" type="Timer" parent="Area2D"]
+wait_time = 0.05
+one_shot = true
+
+[connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]

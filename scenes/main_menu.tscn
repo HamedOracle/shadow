@@ -1,0 +1,95 @@
+[gd_scene load_steps=7 format=3 uid="uid://baensoxcyb8ex"]
+
+[ext_resource type="Script" uid="uid://1nc6nchssadn" path="res://scripts/main_menu.gd" id="1_8ln24"]
+[ext_resource type="FontFile" uid="uid://bsmeaf3vlhsnv" path="res://Pixel Game.otf" id="2_wu84c"]
+[ext_resource type="Texture2D" uid="uid://d1lh5f4ho3yxl" path="res://assets/title.png" id="3_8ln24"]
+[ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="4_rtw2f"]
+[ext_resource type="Texture2D" uid="uid://5hphluu1xeyo" path="res://Background.png" id="5_8ln24"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_oa1go"]
+font_size = 26
+shadow_size = 51
+shadow_color = Color(0, 0, 0, 1)
+
+[node name="main_menu" type="Node"]
+script = ExtResource("1_8ln24")
+metadata/_edit_horizontal_guides_ = [334.0]
+metadata/_edit_vertical_guides_ = [570.0]
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+modulate = Color(0.537011, 0.537011, 0.537011, 1)
+z_index = -1
+offset_left = -77.0
+offset_top = -412.0
+offset_right = 851.0
+offset_bottom = 381.0
+scale = Vector2(1.4, 1.4)
+texture = ExtResource("5_8ln24")
+
+[node name="hd13alpa" type="Label" parent="."]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -51.5
+offset_top = -37.0
+offset_right = 51.5
+offset_bottom = -5.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("2_wu84c")
+theme_override_font_sizes/font_size = 31
+text = "hd13alpa"
+label_settings = SubResource("LabelSettings_oa1go")
+horizontal_alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+modulate = Color(0, 0.312286, 0, 1)
+offset_left = 293.0
+offset_top = 17.0
+offset_right = 2213.0
+offset_bottom = 1097.0
+scale = Vector2(0.285, 0.285)
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture = ExtResource("3_8ln24")
+
+[node name="tut btn" type="Button" parent="."]
+modulate = Color(0, 0.831373, 0, 1)
+z_index = 1
+offset_left = 279.0
+offset_top = 306.0
+offset_right = 3074.0
+offset_bottom = 1225.0
+scale = Vector2(0.05, 0.05)
+theme_override_fonts/font = ExtResource("4_rtw2f")
+theme_override_font_sizes/font_size = 910
+text = "tutorial"
+
+[node name="lvl1 btn" type="Button" parent="."]
+modulate = Color(0, 0.831373, 0, 1)
+z_index = 1
+offset_left = 498.0
+offset_top = 306.0
+offset_right = 3293.0
+offset_bottom = 1225.0
+scale = Vector2(0.05, 0.05)
+theme_override_fonts/font = ExtResource("4_rtw2f")
+theme_override_font_sizes/font_size = 910
+text = "level 1"
+
+[node name="lvl2 btn" type="Button" parent="."]
+modulate = Color(0, 0.831373, 0, 1)
+z_index = 1
+offset_left = 715.0
+offset_top = 308.0
+offset_right = 3510.0
+offset_bottom = 1227.0
+scale = Vector2(0.05, 0.05)
+theme_override_fonts/font = ExtResource("4_rtw2f")
+theme_override_font_sizes/font_size = 910
+text = "level 2"
+
+[connection signal="pressed" from="tut btn" to="." method="_on_tut_btn_pressed"]
+[connection signal="pressed" from="lvl1 btn" to="." method="_on_lvl_1_btn_pressed"]
