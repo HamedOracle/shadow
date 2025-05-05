@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [gd_scene load_steps=60 format=4 uid="uid://ded0bwa4hg23k"]
 
 [ext_resource type="Script" uid="uid://b2r2peo3xnerb" path="res://scripts/tower.gd" id="1_cjdug"]
@@ -26,6 +27,36 @@
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ay4al"]
 texture = ExtResource("17_di6vr")
+=======
+[gd_scene load_steps=60 format=4 uid="uid://6cl36givtan7"]
+
+[ext_resource type="Texture2D" path="res://assets/Foreground/Dungeon Tile Set.png" id="1_2x682"]
+[ext_resource type="Texture2D" path="res://assets/Legacy-Dungeon_V0.2_vacaroxa/Final/Assets/Assets.png" id="2_ktxwe"]
+[ext_resource type="Texture2D" uid="uid://bssmo7wgs133r" path="res://assets/Foreground/d3/Tiles.png" id="3_p8022"]
+[ext_resource type="Texture2D" path="res://assets/dungeon_tileset_puo/misc_1.png" id="3_qrbg1"]
+[ext_resource type="Texture2D" uid="uid://buxxsmv5580ir" path="res://assets/Foreground/d3/tileset.png" id="4_olwqo"]
+[ext_resource type="Texture2D" uid="uid://dh1g0y23aug2g" path="res://assets/Foreground/d3/tiles_out.png" id="5_5w3wq"]
+[ext_resource type="Texture2D" uid="uid://c25ex3r2ugklu" path="res://assets/Foreground/d3/walls_side_top.png" id="6_k4j06"]
+[ext_resource type="Texture2D" uid="uid://ccrk1k85wiq2o" path="res://assets/Foreground/d3/wood_env.png" id="7_i2ndj"]
+[ext_resource type="Texture2D" uid="uid://dodhqqoqryld4" path="res://assets/Foreground/d1/dungeon.png" id="9_2vbvo"]
+[ext_resource type="Texture2D" uid="uid://bmk4xj2nkyv32" path="res://assets/Foreground/d1/misc_1.png" id="10_cjdug"]
+[ext_resource type="Texture2D" uid="uid://ol0h4bmkhl6q" path="res://assets/Foreground/d1/misc_2.png" id="11_dyfdg"]
+[ext_resource type="Texture2D" uid="uid://lk7aajuxd6qw" path="res://assets/Foreground/d2/Props-Rocks.png" id="12_0mydw"]
+[ext_resource type="Texture2D" uid="uid://bllnn0q01mruc" path="res://assets/Foreground/d2/Tree-Assets.png" id="13_5w5c7"]
+[ext_resource type="Texture2D" uid="uid://dgbsub7nqd74f" path="res://assets/Foreground/d3/Decor.png" id="14_5cf1d"]
+[ext_resource type="Texture2D" uid="uid://cnyajnbwd5j6y" path="res://assets/Foreground/d3/environment.png" id="15_dk8x1"]
+[ext_resource type="Texture2D" uid="uid://bcewpn5141euq" path="res://assets/Foreground/d3/env_objects.png" id="16_sdbll"]
+[ext_resource type="Texture2D" uid="uid://j1fwb21h730s" path="res://assets/Foreground/d2/Dungeon Tile Set.png" id="17_di6vr"]
+[ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="18_jtvrq"]
+[ext_resource type="Texture2D" uid="uid://bogd5x3gfr22k" path="res://assets/fire/1.png" id="19_t6gji"]
+[ext_resource type="Texture2D" uid="uid://b140hxy3j4xu2" path="res://assets/fire/fire_fx_v1.0/png/orange/loops/burning_loop_1.png" id="20_rc43p"]
+[ext_resource type="Texture2D" uid="uid://dk67god57dpfs" path="res://assets/Foreground/decorations/lamp.png" id="21_dk4do"]
+[ext_resource type="Texture2D" uid="uid://bkpq3kd8hj2ju" path="res://assets/Foreground/decorations/sign.png" id="22_kxhak"]
+[ext_resource type="Texture2D" uid="uid://dwjmc2dfp7hbr" path="res://assets/Foreground/d3/anim_light1.png" id="23_3uc36"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ay4al"]
+texture = ExtResource("1_2x682")
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 1:1/0 = 0
 1:1/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 2:1/0 = 0
@@ -2255,7 +2286,11 @@ texture = ExtResource("7_i2ndj")
 19:15/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_85u2j"]
+<<<<<<< HEAD
 texture = ExtResource("10_cjdug")
+=======
+texture = ExtResource("3_qrbg1")
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 0:0/0 = 0
 1:0/0 = 0
 2:0/0 = 0
@@ -4987,7 +5022,10 @@ animations = [{
 }]
 
 [node name="Tower" type="Node2D"]
+<<<<<<< HEAD
 script = ExtResource("1_cjdug")
+=======
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 
 [node name="tiles" type="Node" parent="."]
 
@@ -5011,7 +5049,11 @@ tile_set = SubResource("TileSet_oo2v6")
 
 [node name="UI" type="Node" parent="."]
 
+<<<<<<< HEAD
 [node name="end of demo" type="Panel" parent="UI"]
+=======
+[node name="Panel" type="Panel" parent="UI"]
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 anchors_preset = -1
 anchor_left = 1.571
 anchor_top = -7.179
@@ -5022,7 +5064,11 @@ offset_top = -0.0078125
 offset_right = -2.18408
 offset_bottom = -5.3916
 
+<<<<<<< HEAD
 [node name="Label" type="Label" parent="UI/end of demo"]
+=======
+[node name="Label" type="Label" parent="UI/Panel"]
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -5040,7 +5086,11 @@ text = "this is the end of Demo"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+<<<<<<< HEAD
 [node name="Label2" type="Label" parent="UI/end of demo"]
+=======
+[node name="Label2" type="Label" parent="UI/Panel"]
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -5059,6 +5109,7 @@ text = "thanks for playing"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+<<<<<<< HEAD
 [node name="pause_menu" parent="UI" instance=ExtResource("17_v1bxd")]
 visible = false
 anchors_preset = 8
@@ -5068,6 +5119,8 @@ anchor_right = 0.5
 anchor_bottom = 0.5
 scale = Vector2(2, 2)
 
+=======
+>>>>>>> parent of f8cf6f6 (Revert "0.0.3")
 [node name="obj" type="Node" parent="."]
 
 [node name="sword" type="Sprite2D" parent="obj"]
