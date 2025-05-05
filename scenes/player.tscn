@@ -373,7 +373,6 @@ autoplay = "idle"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 frame = 3
 frame_progress = 0.928378
 offset = Vector2(4.635, -19.635)
@@ -394,12 +393,6 @@ frame_progress = 0.577392
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-5, 23)
 >>>>>>> parent of 2070e96 (0.0.7)
-=======
-frame_progress = 0.131865
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-5, 23)
->>>>>>> parent of 503ffa5 (Revert "0.0.4")
 =======
 frame_progress = 0.131865
 
