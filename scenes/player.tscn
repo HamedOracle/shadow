@@ -365,16 +365,14 @@ height = 32.0
 script = ExtResource("1_8wkc5")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(0, -1)
 sprite_frames = SubResource("SpriteFrames_iswx8")
-animation = &"idle"
+animation = &"death"
 autoplay = "idle"
-frame = 3
-frame_progress = 0.928378
-offset = Vector2(4.635, -19.635)
+frame = 1
+frame_progress = 0.577392
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, 3)
+position = Vector2(-5, 23)
 shape = SubResource("CapsuleShape2D_7iim7")
 
 [node name="attack1_timer" type="Timer" parent="."]
