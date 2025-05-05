@@ -5136,7 +5136,7 @@ position = Vector2(796.375, -12.5)
 scale = Vector2(0.78125, 0.78125)
 sprite_frames = SubResource("SpriteFrames_k1pko")
 autoplay = "default"
-frame_progress = 0.752894
+frame_progress = 0.631106
 
 [node name="Lamp" type="Sprite2D" parent="obj"]
 position = Vector2(305.285, -24.75)
@@ -5152,4 +5152,6 @@ position = Vector2(84.75, -52.5)
 scale = Vector2(0.65625, 0.65625)
 sprite_frames = SubResource("SpriteFrames_efpvh")
 autoplay = "default"
-frame_progress = 0.883933
+frame_progress = 0.100124
+
+[node name="npc" type="Node" parent="."]

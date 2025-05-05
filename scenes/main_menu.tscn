@@ -4,7 +4,11 @@
 [ext_resource type="FontFile" uid="uid://bsmeaf3vlhsnv" path="res://Pixel Game.otf" id="2_wu84c"]
 [ext_resource type="Texture2D" uid="uid://d1lh5f4ho3yxl" path="res://assets/title.png" id="3_8ln24"]
 [ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="4_rtw2f"]
+<<<<<<< HEAD
 [ext_resource type="Texture2D" uid="uid://cthoim6lgok5q" path="res://Background.png" id="5_8ln24"]
+=======
+[ext_resource type="Texture2D" uid="uid://mtephgsgvfx5" path="res://Background.png" id="5_8ln24"]
+>>>>>>> parent of 503ffa5 (Revert "0.0.4")
 
 [sub_resource type="LabelSettings" id="LabelSettings_oa1go"]
 font_size = 26

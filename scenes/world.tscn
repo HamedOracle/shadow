@@ -1,14 +1,14 @@
 [gd_scene load_steps=15 format=4 uid="uid://dd0wv8jdk6u6o"]
 
 [ext_resource type="PackedScene" uid="uid://7d0j6istk2jh" path="res://scenes/player.tscn" id="1_o34ak"]
-[ext_resource type="Texture2D" uid="uid://j1fwb21h730s" path="res://assets/Foreground/Dungeon Tile Set.png" id="2_71j4m"]
-[ext_resource type="Texture2D" uid="uid://bbawq0t5jvrph" path="res://assets/Foreground/Buildings.png" id="3_qfnet"]
-[ext_resource type="Texture2D" uid="uid://du2bvpf4jecod" path="res://assets/Foreground/Tileset.png" id="4_i7141"]
-[ext_resource type="Texture2D" uid="uid://dl7jhkwmp0516" path="res://assets/Foreground/Textures-16.png" id="5_4mrxx"]
+[ext_resource type="Texture2D" path="res://assets/Foreground/Dungeon Tile Set.png" id="2_71j4m"]
+[ext_resource type="Texture2D" path="res://assets/Foreground/Buildings.png" id="3_qfnet"]
+[ext_resource type="Texture2D" path="res://assets/Foreground/Tileset.png" id="4_i7141"]
+[ext_resource type="Texture2D" path="res://assets/Foreground/Textures-16.png" id="5_4mrxx"]
 [ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="6_i7141"]
 [ext_resource type="FontFile" uid="uid://bsmeaf3vlhsnv" path="res://Pixel Game.otf" id="7_4mrxx"]
-[ext_resource type="Texture2D" uid="uid://dagl2acxc14es" path="res://assets/Foreground/Keyboard Extras.png" id="8_4mrxx"]
-[ext_resource type="Texture2D" uid="uid://blabwhrknrfcf" path="res://assets/ui/1.png" id="9_7r4gi"]
+[ext_resource type="Texture2D" path="res://assets/Foreground/Keyboard Extras.png" id="8_4mrxx"]
+[ext_resource type="Texture2D" path="res://assets/ui/1.png" id="9_7r4gi"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_7r4gi"]
 texture = ExtResource("2_71j4m")
