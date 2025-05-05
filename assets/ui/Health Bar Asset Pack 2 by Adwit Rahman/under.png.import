@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://b262f1xqc5h3n"
+path="res://.godot/imported/under.png-23de0b37bb4434025d1a98d082648a97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/ui/Health Bar Asset Pack 2 by Adwit Rahman/under.png"
+dest_files=["res://.godot/imported/under.png-23de0b37bb4434025d1a98d082648a97.ctex"]
 
 [params]
 

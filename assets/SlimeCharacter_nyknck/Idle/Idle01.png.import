@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://6usk816qqr0h"
+path="res://.godot/imported/Idle01.png-a75cc54e60daa73f3537c55d1c5a9adb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/SlimeCharacter_nyknck/Idle/Idle01.png"
+dest_files=["res://.godot/imported/Idle01.png-a75cc54e60daa73f3537c55d1c5a9adb.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://0us1ahmb7kef"
+path="res://.godot/imported/Sleep02.png-be1b80713d0d7f876b8f64abf2064fb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/SlimeCharacter_nyknck/Sleep/Sleep02.png"
+dest_files=["res://.godot/imported/Sleep02.png-be1b80713d0d7f876b8f64abf2064fb1.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://bfit2wkuasf0l"
+path="res://.godot/imported/walk04.png-ffe587aee85dbacba1b8f6a6056dafc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/SlimeCharacter_nyknck/Walk/walk04.png"
+dest_files=["res://.godot/imported/walk04.png-ffe587aee85dbacba1b8f6a6056dafc7.ctex"]
 
 [params]
 

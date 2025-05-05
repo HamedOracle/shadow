@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://cpjmwwc47o50h"
+path="res://.godot/imported/_Crouch.png-9f349c6bd6cb60dff5618e44ab5ea594.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/FreeKnight_v1/Outline/120x80_PNGSheets/_Crouch.png"
+dest_files=["res://.godot/imported/_Crouch.png-9f349c6bd6cb60dff5618e44ab5ea594.ctex"]
 
 [params]
 

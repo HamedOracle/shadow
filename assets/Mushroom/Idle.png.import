@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://b3ds2f8gomppi"
+path="res://.godot/imported/Idle.png-beb0027ffa06105261e8fa1e6a300855.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mushroom/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-beb0027ffa06105261e8fa1e6a300855.ctex"]
 
 [params]
 

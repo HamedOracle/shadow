@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://dfitcqk8n20ei"
+path="res://.godot/imported/_TurnAround.png-a68440b4994cfc6e15c09d3b8035c65f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/FreeKnight_v1/Outline/120x80_PNGSheets/_TurnAround.png"
+dest_files=["res://.godot/imported/_TurnAround.png-a68440b4994cfc6e15c09d3b8035c65f.ctex"]
 
 [params]
 

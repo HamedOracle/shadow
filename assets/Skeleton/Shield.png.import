@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://o3nktmviqccn"
+path="res://.godot/imported/Shield.png-9d8ad4d35a12627c4758fab116a86ae6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Skeleton/Shield.png"
+dest_files=["res://.godot/imported/Shield.png-9d8ad4d35a12627c4758fab116a86ae6.ctex"]
 
 [params]
 

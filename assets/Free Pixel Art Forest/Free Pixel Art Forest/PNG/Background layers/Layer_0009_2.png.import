@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://bjmbfw4dth7a5"
+path="res://.godot/imported/Layer_0009_2.png-bb14e14f6e0a0ba95dd87a9ddddfb9e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Free Pixel Art Forest/Free Pixel Art Forest/PNG/Background layers/Layer_0009_2.png"
+dest_files=["res://.godot/imported/Layer_0009_2.png-bb14e14f6e0a0ba95dd87a9ddddfb9e6.ctex"]
 
 [params]
 

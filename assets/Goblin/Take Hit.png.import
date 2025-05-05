@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://c2sslpw1vvceo"
+path="res://.godot/imported/Take Hit.png-6d9452392e6eae5fd421f5bd71ee12ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Goblin/Take Hit.png"
+dest_files=["res://.godot/imported/Take Hit.png-6d9452392e6eae5fd421f5bd71ee12ea.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://ch8dtv8kvhsbn"
+path="res://.godot/imported/Bricks_18-128x128.png-4b82d46995d49151405269c75c83d45f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Foreground/Bricks_18-128x128.png"
+dest_files=["res://.godot/imported/Bricks_18-128x128.png-4b82d46995d49151405269c75c83d45f.ctex"]
 
 [params]
 

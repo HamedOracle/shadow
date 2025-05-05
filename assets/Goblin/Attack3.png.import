@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://0405apexdndo"
+path="res://.godot/imported/Attack3.png-856bf7c87358675c7b7fd0bf0b404b0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Goblin/Attack3.png"
+dest_files=["res://.godot/imported/Attack3.png-856bf7c87358675c7b7fd0bf0b404b0b.ctex"]
 
 [params]
 

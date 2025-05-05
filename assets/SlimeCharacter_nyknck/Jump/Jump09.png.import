@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://d162mvfbedpm2"
+path="res://.godot/imported/Jump09.png-fe11c3e4fdbaf5c4fc9b455b8974db24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/SlimeCharacter_nyknck/Jump/Jump09.png"
+dest_files=["res://.godot/imported/Jump09.png-fe11c3e4fdbaf5c4fc9b455b8974db24.ctex"]
 
 [params]
 

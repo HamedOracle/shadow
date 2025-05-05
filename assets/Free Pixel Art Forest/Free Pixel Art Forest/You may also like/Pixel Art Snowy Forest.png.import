@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://dktesylsubd7t"
+path="res://.godot/imported/Pixel Art Snowy Forest.png-d01cda312c7aabe5d70630092f90494f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Free Pixel Art Forest/Free Pixel Art Forest/You may also like/Pixel Art Snowy Forest.png"
+dest_files=["res://.godot/imported/Pixel Art Snowy Forest.png-d01cda312c7aabe5d70630092f90494f.ctex"]
 
 [params]
 

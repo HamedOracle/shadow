@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5hphluu1xeyo"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://btfijk12scj67"
+path="res://.godot/imported/_Attack2NoMovement.png-38640d91fc67d02a94bbd23ee49a6bb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/FreeKnight_v1/Outline/120x80_PNGSheets/_Attack2NoMovement.png"
+dest_files=["res://.godot/imported/_Attack2NoMovement.png-38640d91fc67d02a94bbd23ee49a6bb3.ctex"]
 
 [params]
 
