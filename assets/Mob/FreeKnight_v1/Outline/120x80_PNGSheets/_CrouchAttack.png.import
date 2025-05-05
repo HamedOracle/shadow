@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://trnx1tv6u17e"
+path="res://.godot/imported/_CrouchAttack.png-3de2b752d55042bb97567737e65e17ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/FreeKnight_v1/Outline/120x80_PNGSheets/_CrouchAttack.png"
+dest_files=["res://.godot/imported/_CrouchAttack.png-3de2b752d55042bb97567737e65e17ca.ctex"]
 
 [params]
 

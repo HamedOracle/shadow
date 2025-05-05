@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://b2a3fvqi0emv6"
+path="res://.godot/imported/burning_end_2.png-ca55ddb7aad2a7f79fff0cb2d850e36a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/fire/fire_fx_v1.0/png/orange/end/burning_end_2.png"
+dest_files=["res://.godot/imported/burning_end_2.png-ca55ddb7aad2a7f79fff0cb2d850e36a.ctex"]
 
 [params]
 

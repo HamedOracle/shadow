@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://fy5alyx7ypt4"
+path="res://.godot/imported/Pixel Art Wheat.png-4ae1966480d03a9466744567d31c97b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Foreground/d3/Pixel Art Wheat.png"
+dest_files=["res://.godot/imported/Pixel Art Wheat.png-4ae1966480d03a9466744567d31c97b5.ctex"]
 
 [params]
 

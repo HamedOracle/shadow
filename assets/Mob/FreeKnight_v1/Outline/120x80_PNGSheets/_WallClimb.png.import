@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://bxxkgm1yfbvco"
+path="res://.godot/imported/_WallClimb.png-95921456fc2a1429e81fb4d962621d0a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/FreeKnight_v1/Outline/120x80_PNGSheets/_WallClimb.png"
+dest_files=["res://.godot/imported/_WallClimb.png-95921456fc2a1429e81fb4d962621d0a.ctex"]
 
 [params]
 

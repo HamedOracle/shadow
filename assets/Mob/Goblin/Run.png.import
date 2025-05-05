@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://ckdw157dtrlj0"
+path="res://.godot/imported/Run.png-2351639464081f01ad603beef272f19f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/Goblin/Run.png"
+dest_files=["res://.godot/imported/Run.png-2351639464081f01ad603beef272f19f.ctex"]
 
 [params]
 

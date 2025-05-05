@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://b8abcq34x22t2"
+path="res://.godot/imported/Idle.png-f67f7f543bd15b7a6e95ddab7031147e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/Goblin/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-f67f7f543bd15b7a6e95ddab7031147e.ctex"]
 
 [params]
 

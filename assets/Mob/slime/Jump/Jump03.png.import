@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://jir1thyoc6cj"
+path="res://.godot/imported/Jump03.png-683a461c1f017cfbd6115e4fe8221fda.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/slime/Jump/Jump03.png"
+dest_files=["res://.godot/imported/Jump03.png-683a461c1f017cfbd6115e4fe8221fda.ctex"]
 
 [params]
 

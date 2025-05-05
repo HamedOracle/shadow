@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtephgsgvfx5"
-path="res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"
+uid="uid://dwl5xd7qmhgx6"
+path="res://.godot/imported/_Slide.png-4b6621d524dc04ba2073be641a7efe00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Background.png"
-dest_files=["res://.godot/imported/Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex"]
+source_file="res://assets/Mob/FreeKnight_v1/Outline/120x80_PNGSheets/_Slide.png"
+dest_files=["res://.godot/imported/_Slide.png-4b6621d524dc04ba2073be641a7efe00.ctex"]
 
 [params]
 
