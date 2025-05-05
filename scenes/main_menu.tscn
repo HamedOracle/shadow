@@ -4,7 +4,7 @@
 [ext_resource type="FontFile" uid="uid://bsmeaf3vlhsnv" path="res://Pixel Game.otf" id="2_wu84c"]
 [ext_resource type="Texture2D" uid="uid://d1lh5f4ho3yxl" path="res://assets/title.png" id="3_8ln24"]
 [ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="4_rtw2f"]
-[ext_resource type="Texture2D" uid="uid://5hphluu1xeyo" path="res://Background.png" id="5_8ln24"]
+[ext_resource type="Texture2D" uid="uid://mtephgsgvfx5" path="res://Background.png" id="5_8ln24"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_oa1go"]
 font_size = 26
