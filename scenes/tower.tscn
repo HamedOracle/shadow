@@ -1,5 +1,6 @@
-[gd_scene load_steps=58 format=4 uid="uid://ded0bwa4hg23k"]
+[gd_scene load_steps=60 format=4 uid="uid://ded0bwa4hg23k"]
 
+[ext_resource type="Script" uid="uid://b2r2peo3xnerb" path="res://scripts/tower.gd" id="1_cjdug"]
 [ext_resource type="Texture2D" path="res://assets/Foreground/d3/Assets.png" id="2_ktxwe"]
 [ext_resource type="Texture2D" path="res://assets/Foreground/d3/Tiles.png" id="3_p8022"]
 [ext_resource type="Texture2D" path="res://assets/Foreground/d3/tileset.png" id="4_olwqo"]
@@ -15,6 +16,7 @@
 [ext_resource type="Texture2D" path="res://assets/Foreground/d3/environment.png" id="15_dk8x1"]
 [ext_resource type="Texture2D" path="res://assets/Foreground/d3/env_objects.png" id="16_sdbll"]
 [ext_resource type="Texture2D" path="res://assets/Foreground/d2/Dungeon Tile Set.png" id="17_di6vr"]
+[ext_resource type="PackedScene" uid="uid://dnrcl8n08nec8" path="res://scenes/pause_menu.tscn" id="17_v1bxd"]
 [ext_resource type="FontFile" uid="uid://bnj637462tnr" path="res://MedodicaRegular.otf" id="18_jtvrq"]
 [ext_resource type="Texture2D" path="res://assets/fire/1.png" id="19_t6gji"]
 [ext_resource type="Texture2D" path="res://assets/fire/fire_fx_v1.0/png/orange/loops/burning_loop_1.png" id="20_rc43p"]
@@ -4985,6 +4987,7 @@ animations = [{
 }]
 
 [node name="Tower" type="Node2D"]
+script = ExtResource("1_cjdug")
 
 [node name="tiles" type="Node" parent="."]
 
@@ -5008,7 +5011,7 @@ tile_set = SubResource("TileSet_oo2v6")
 
 [node name="UI" type="Node" parent="."]
 
-[node name="Panel" type="Panel" parent="UI"]
+[node name="end of demo" type="Panel" parent="UI"]
 anchors_preset = -1
 anchor_left = 1.571
 anchor_top = -7.179
@@ -5019,7 +5022,7 @@ offset_top = -0.0078125
 offset_right = -2.18408
 offset_bottom = -5.3916
 
-[node name="Label" type="Label" parent="UI/Panel"]
+[node name="Label" type="Label" parent="UI/end of demo"]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -5037,7 +5040,7 @@ text = "this is the end of Demo"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="Label2" type="Label" parent="UI/Panel"]
+[node name="Label2" type="Label" parent="UI/end of demo"]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -5055,6 +5058,15 @@ theme_override_fonts/font = ExtResource("18_jtvrq")
 text = "thanks for playing"
 horizontal_alignment = 1
 vertical_alignment = 1
+
+[node name="pause_menu" parent="UI" instance=ExtResource("17_v1bxd")]
+visible = false
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+scale = Vector2(2, 2)
 
 [node name="obj" type="Node" parent="."]
 
